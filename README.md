@@ -1,9 +1,9 @@
 # Android-Programming
 # Inspiraciones
-[Netflix](https://netflix.com)
-[Disney+](https://disneyplus.com)
-[Twitch](https://twitch.tv)
-[Messenger](https://messenger.com)
+*[Netflix](https://netflix.com)
+*[Disney+](https://disneyplus.com)
+*[Twitch](https://twitch.tv)
+*[Messenger](https://messenger.com)
 # Idea
 # MizuKino
 * Eslogan: Explora, disfruta, y sueña en MizuKino
