@@ -23,5 +23,7 @@ MizuKino ofrecerá la opción de descargar contenido, permitiendo a los usuarios
 **Interfaz Personalizable:**
 Los usuarios podrán personalizar la apariencia de la aplicación según sus preferencias, eligiendo entre diferentes temas y estilos, haciendo que la experiencia sea aún más única.
 
-Listas de Favoritos y Watchlists:
+**Listas de Favoritos y Watchlists:**
 Los usuarios podrán crear listas personalizadas de contenido que desean ver en el futuro y marcar sus películas y series favoritas para un acceso rápido.
+
+
