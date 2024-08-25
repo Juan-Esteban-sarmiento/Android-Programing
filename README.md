@@ -5,11 +5,11 @@
 - [Twitch](https://twitch.tv)
 - [Messenger](https://messenger.com)
 # Idea
-# MizuKino
+## MizuKino
 * **Eslogan:** Explora, disfruta, y sueña en MizuKino
 MizuKino será un innovador servicio de streaming diseñado para ofrecer a los usuarios una experiencia cinematográfica única y envolvente. A través de su interfaz intuitiva y atractiva, MizuKino no solo proporcionará acceso a una vasta biblioteca de películas y series, sino que también introducirá características interactivas y personalizadas que transformarán la forma en que los espectadores disfrutarán del contenido.
 
-## **Caracteristicas:**
+### **Caracteristicas:**
 
 **Modo Social:**
 Los usuarios disfrutarán de una experiencia de visualización compartida con amigos gracias a la función de "ver juntos". Esta función permitirá la sincronización de la reproducción y la posibilidad de chatear o hacer videollamadas mientras ven películas, creando un ambiente social envolvente.
