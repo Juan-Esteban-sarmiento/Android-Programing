@@ -11,13 +11,16 @@ El diseño completoe esta disponible en [Marvel APP](https://marvelapp.com/) . L
 - Aqui se peude ver como el usuario puede reguistrarse he iniciar secion:
 
 - ![Registro_home](/Images/Mockups/3.jpg)
+  
 - ![Registro](/Images/Mockups/4.jpg)
+  
 - ![inicio secion](/Images/Mockups/5.jpg)
 
 ### Seleccion e inicio:
 - Cuando el usuario se registre aparecera en la seleccionm de perfil y despues se redirigira a el inicio donde le apareceran todas las peliculas y series populares:
 
 - ![seleccion](/Images/Mockups/6.jpg)
+  
 - ![incio_app](/Images/Mockups/7.jpg)
 
 ### Menu:
@@ -29,4 +32,5 @@ El diseño completoe esta disponible en [Marvel APP](https://marvelapp.com/) . L
 - cuando el usuario seleccione el menu le aparecenran muchos apartados entre ellos los de series y peliculas los cuales lo redireccionaran como lo muestran las siguientes imagenes:
 
 - ![series](/Images/Mockups/9.jpg)
+  
 - ![peliculas](/Images/Mockups/10.jpg)
