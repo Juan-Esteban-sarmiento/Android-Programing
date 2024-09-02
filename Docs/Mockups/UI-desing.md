@@ -5,7 +5,7 @@ El diseño completoe esta disponible en [Marvel APP](https://marvelapp.com/) . L
 - Carga:
 cuando el usuario ingrese a la aplicacion cargara como muestra en la imagen:
 
-[](1.jpg)
+![Lista de podcasts](images/1.jpg)
 
 - Registro:
 Aqui se peude ver como el usuario puede reguistrarse he iniciar secion:
