@@ -12,16 +12,16 @@ Funcionalidades de usuario
 
 - Seleccionar una serie o pelicula de su interes: Desde la pantalla inicial podrá seleccionar pelicula o serie. En caso de las series el primer episodio se reproducirá de forma automática.
 
-- Ir al sitio web del Podcast (si existe): Si el Podcast tiene un sitio web podrá abrirlo en el navegador por defecto en su celular.
+- Reproducir episodios de series: Desde la lista de episodios podrá reproducir cualquier episodio de la serie.
 
-- Reproducir episodios de podcast: Desde la lista de episodios podrá reproducir cualquiera de ellos.
+- Adelantar o retroceder la reproducción de la pelicula o serie: Podrá adelantar y retrasar la reproducción en intervalos de 10 segundos.
 
-- Adelantar la reproducción de un podcast: Podrá adelantar la reproducción en intervalos de 15 segundos.
-
-- Retrasar la reproducción de un podcast: Podrá regresar la reproducción en intervalos de 15 segundos.
-
-- Buscar podcasts por nombre: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su podcast de interés.
+- Buscar cualquier pelicula o serie en MizuKino: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su serie o pelicula de interés.
 
 - Votar por los podcasts favoritos: En cada Podcast tendrá una opción para votar por el podcast. La votación será personal y estará disponible solo desde el dispositivo.
 
-- Ver los podcasts favoritos: Podrá ir a la ventana de favoritos donde verá los Podcasts que ha votado como favoritos en orden de calificación.
+- Favoritos: Podrá ir a la ventana de favoritos donde veras todas las series o peliculas guardadas en favoritos.
+
+- Personalizar: podras poner en el apartado de incio que quieres que se vea primero si las peliculas o series, y cambiar el orden en las que se muestran.
+
+- Que ver: el presionar esto el usuario accedera a una lista de preguntas lo cual servira para estimar el humor del usuario y recomendarles series o peliculas para mejorarlo.
