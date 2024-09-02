@@ -10,7 +10,7 @@ cuando el usuario ingrese a la aplicacion cargara como muestra en la imagen:
 - Registro:
 Aqui se peude ver como el usuario puede reguistrarse he iniciar secion:
 
-[](/Images/Mockups/3.jpg)[](/Images/Mockups/4.jpg)[](/Images/Mockups/5.jpg)
+![Registro_home](/Images/Mockups/3.jpg)[Registro](/Images/Mockups/4.jpg)[inicio secion](/Images/Mockups/5.jpg)
 
 - Seleccion e inicio:
 Cuando el usuario se registre aparecera en la seleccionm de perfil y despues se redirigira a el inicio donde le apareceran todas las peliculas y series populares:
